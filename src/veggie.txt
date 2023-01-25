@@ -1,0 +1,9 @@
+potato,50
+sawi ,2
+sayur,4
+peas	,9
+broccoli,12
+carrot	,479
+tomato,200
+ambada,5
+beetroot,3

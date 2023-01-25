@@ -1,0 +1,6 @@
+apple,100
+orange,50
+pineapple,2
+watermelon,5
+lemon,20
+banana,41

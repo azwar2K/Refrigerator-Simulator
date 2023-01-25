@@ -1,0 +1,8 @@
+chicken,10
+lamb,2
+egg,100
+beef,30
+fish,29
+prawn,25
+meatball,62
+wagyu,1

@@ -1,0 +1,6 @@
+rempah kari,3
+rempah ayam,100
+rempah daging,2
+rempah kurma,55
+ginger,36
+paprika,76

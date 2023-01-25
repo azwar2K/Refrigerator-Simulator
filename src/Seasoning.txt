@@ -1,0 +1,5 @@
+black pepper,3
+buah pegaga,11
+white pepper,22
+salt,7
+sugar,51
